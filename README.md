@@ -78,5 +78,6 @@ Evaluate the viability of low-sales sub-categories (e.g., Fasteners, Labels, Art
 Create region-specific bundles or promotions that align with customer preferences in high-performing areas like California, New York, and Texas.
 
 **Dashboard Link:** https://prod-apnortheast-a.online.tableau.com/t/shashankshekhar087-57f9369853/views/Superstore_sales_dashboard/SuperStore
+https://public.tableau.com/views/Superstore_dashboard_17312302169970/SuperStore?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ![image](https://github.com/user-attachments/assets/fe242429-bd88-4733-8fd1-bdde2c5b97c0)
 
