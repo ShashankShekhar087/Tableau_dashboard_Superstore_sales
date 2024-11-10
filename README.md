@@ -6,10 +6,10 @@ The Superstore Sales Dashboard is designed to address the need for a comprehensi
 
 **Purpose:** Provide a snapshot of key metrics to assess overall business performance.
 **Finding:**
-**Total Sales: $2,297,201**
-**Total Profit: $286,397 (indicating a lower profit margin relative to sales volume)**
-**Quantity Sold: 37,873 units**
-**Discounts: Total discount of 1,561**.
+**1. Total Sales: $2,297,201**
+**2. Total Profit: $286,397 (indicating a lower profit margin relative to sales volume)**
+**3. Quantity Sold: 37,873 units**
+**4. Discounts: Total discount of 1,561**.
 
 ##### Sales Trend by Category (Line Chart)
 
